@@ -5,9 +5,15 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCoreApplication", "MyCoreApplication\MyCoreApplication.csproj", "{9A6CBC75-E106-4C9A-862D-AEB39FE0AF31}"
 EndProject
+<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCoreApplication.Core", "MyCoreApplication.Core\MyCoreApplication.Core.csproj", "{AE9A38EC-450A-4EE9-B18F-63D4965CEA61}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCoreApplication.Data", "MyCoreApplication.Data\MyCoreApplication.Data.csproj", "{554E77B4-7DA1-4B6B-92BB-C31D88F73BAE}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCoreApplication.Core", "MyCoreApplication.Core\MyCoreApplication.Core.csproj", "{AE9A38EC-450A-4EE9-B18F-63D4965CEA61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCoreApplication.Data", "MyCoreApplication.Data\MyCoreApplication.Data.csproj", "{554E77B4-7DA1-4B6B-92BB-C31D88F73BAE}"
+>>>>>>> f9c45bda70aab1cd0d4911df281c2d6fef7b08a6
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
