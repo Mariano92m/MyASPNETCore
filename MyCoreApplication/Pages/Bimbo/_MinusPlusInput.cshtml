@@ -1,0 +1,16 @@
+﻿@using MyCoreApplication.Core
+@model BimboProduct
+
+<div class="input-group">
+    <span class="input-group-btn">
+        <button type="button" class="btn btn-danger btn-number" data-type="minus" data-field="quant[@Model.Id]">
+            <span class="glyphicon glyphicon-minus"> - </span>
+        </button>
+    </span>
+    <input type="text" name="quant[@Model.Id]" class="form-control input-number" value="0" min="0" max="10">
+    <span class="input-group-btn">
+        <button type="button" class="btn btn-success btn-number" data-type="plus" data-field="quant[@Model.Id]">
+            <span class="glyphicon glyphicon-plus"> + </span>
+        </button>
+    </span>
+</div>

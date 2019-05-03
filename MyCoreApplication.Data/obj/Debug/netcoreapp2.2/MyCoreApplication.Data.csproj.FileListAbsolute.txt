@@ -1,0 +1,12 @@
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Data\bin\Debug\netcoreapp2.2\MyCoreApplication.Data.deps.json
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Data\bin\Debug\netcoreapp2.2\MyCoreApplication.Data.dll
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Data\bin\Debug\netcoreapp2.2\MyCoreApplication.Data.pdb
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Data\bin\Debug\netcoreapp2.2\MyCoreApplication.Core.dll
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Data\bin\Debug\netcoreapp2.2\MyCoreApplication.Core.pdb
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Data\obj\Debug\netcoreapp2.2\MyCoreApplication.Data.csprojAssemblyReference.cache
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Data\obj\Debug\netcoreapp2.2\MyCoreApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Data\obj\Debug\netcoreapp2.2\MyCoreApplication.Data.AssemblyInfoInputs.cache
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Data\obj\Debug\netcoreapp2.2\MyCoreApplication.Data.AssemblyInfo.cs
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Data\obj\Debug\netcoreapp2.2\MyCoreApplication.Data.csproj.CopyComplete
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Data\obj\Debug\netcoreapp2.2\MyCoreApplication.Data.dll
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Data\obj\Debug\netcoreapp2.2\MyCoreApplication.Data.pdb

@@ -1,0 +1,9 @@
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Core\bin\Debug\netcoreapp2.2\MyCoreApplication.Core.deps.json
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Core\bin\Debug\netcoreapp2.2\MyCoreApplication.Core.dll
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Core\bin\Debug\netcoreapp2.2\MyCoreApplication.Core.pdb
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Core\obj\Debug\netcoreapp2.2\MyCoreApplication.Core.csprojAssemblyReference.cache
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Core\obj\Debug\netcoreapp2.2\MyCoreApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Core\obj\Debug\netcoreapp2.2\MyCoreApplication.Core.AssemblyInfoInputs.cache
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Core\obj\Debug\netcoreapp2.2\MyCoreApplication.Core.AssemblyInfo.cs
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Core\obj\Debug\netcoreapp2.2\MyCoreApplication.Core.dll
+C:\Users\Mariano\source\repos\MyCoreApplication\MyCoreApplication.Core\obj\Debug\netcoreapp2.2\MyCoreApplication.Core.pdb
