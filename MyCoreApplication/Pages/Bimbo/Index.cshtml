@@ -1,0 +1,20 @@
+﻿@page
+@model MyCoreApplication.Pages.Bimbo.IndexModel
+@{
+}
+
+<h1>Bimbo</h1>
+
+<div class="container">
+    <div class="row justify-content-center">
+        @foreach (var product in Model.BimboProduct)
+        {
+            @if (product.Stock)
+            {
+                <div class="col-md-4" style="padding-top: 15px; padding-bottom: 15px;">
+                    <partial name="_Card" model="product"/>
+                </div>
+            }
+        }
+    </div>
+</div>
